@@ -1,6 +1,5 @@
 java
 jenkins
 maven
-docker
-ansible
+
 
