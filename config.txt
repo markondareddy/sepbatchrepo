@@ -1,8 +1,3 @@
-java
-jenkins
-maven
-
-
 
 ant
 git
